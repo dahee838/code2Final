@@ -1,0 +1,45 @@
+{
+  "scenes": [
+    {
+      "sceneText": "THE POTATO'S DREAM.",
+      "thatOneBit": "Press 1 to start",
+      "options": ["Page 1"],
+      "nextScenes": [1],
+      "x": 300,
+      "y": 350
+    },
+    {
+      "sceneText": "There was once a sleeping potato. He had some weird ass dreams.",
+      "thatOneBit": "Press 2 to enter his mind.",
+      "options": [" "],
+      "nextScenes": [2, 0],
+      "x": 330,
+      "y": 350
+    },
+    {
+      "sceneText": "Shoot sunlight at the potato to make it happy.",
+      "thatOneBit": "Use W to move, left and right to turn, and d to shoot!.",
+      "options": [" "], 
+      "nextScenes": [3, 1],
+      "x": 360,
+      "y": 350
+    },
+    {
+      "sceneText": "Save the potato!",
+      "thatOneBit": "Use the mouse to keep the potato in the air!.",
+      "options": ["Next page", "Previous page"],
+      "nextScenes": [4, 2],
+      "x": 390,
+      "y": 350
+    }
+
+        {
+      "sceneText": "Fill the cup!",
+      "thatOneBit": "Click the mouse and fill the glass up with potato!.",
+      "options": ["Next page", "Previous page"],
+      "nextScenes": [4, 2],
+      "x": 390,
+      "y": 350
+    }
+  ]
+}
